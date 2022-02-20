@@ -1,6 +1,6 @@
-# Hi, I am [VLadeev]!
+# Hi!
 
-My name is **VLadislav İris**, here I will show my progress in learning different things, and in the future I will share various projects!
+Here I will show my progress in learning different things, and in the future I will share various projects!
 
 - I am interested in and studying the Java programming language.
 
